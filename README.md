@@ -1,4 +1,4 @@
-# Hamiltonian-path-cycle
+# Hamiltonian-path-cycle-generator
 Creates a random hamiltonian path or cycle starting from the simple hamiltonian cycle in a grid.
 The width must be an even number.
 
